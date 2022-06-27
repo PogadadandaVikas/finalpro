@@ -1,6 +1,5 @@
 # finalpro Future Ready Talent
 
-### This is my final FRT Project
 
 ### Project Title: Planet hosting
 
